@@ -20,6 +20,35 @@ This tool allows you to scrape and check the availability of usernames across va
 - View a log of username availability checks.
 - User-friendly command-line interface.
 
+## Supported Social Platforms
+
+The OG Username Scraper and Checker supports checking username availability on the following social platforms:
+
+- Facebook
+- Twitter
+- Instagram
+- Snapchat
+- TikTok
+- YouTube
+- Discord
+- Guilded
+- Pinterest
+- Tumblr
+- Reddit
+- WhatsApp
+- Kik
+- WeChat
+- Viber
+- Quora
+- Tinder
+- Grindr
+- Hinge
+- Bumble
+- OkCupid
+- Zoosk
+- Replit
+- GitHub
+
 ## Usage
 
 1. Run the script.
